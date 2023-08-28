@@ -1,0 +1,6 @@
+requests
+SQLAlchemy==1.4.48
+aiohttp
+more-itertools
+asyncpg
+black
